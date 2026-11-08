@@ -3,3 +3,4 @@ class Main {
         System.out.print("Это добавлено в ветке main");
     }
 }
+// Комментарий 1 в main
